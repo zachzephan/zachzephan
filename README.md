@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on basketball tracking app<br>👯 I’m looking to collaborate on real-world projects <br>🤝 I’m looking for help with AI/ML <br>🌱 I’m currently learning Java and Python<br>💬 Ask me about project ideas!<br>⚡ Fun fact I once drank a sip of hand sanitizer
+🔭 I’m currently working on a threat filter trie<br>👯 I’m looking to collaborate on real-world projects <br>🤝 I’m looking for help with OOP <br>🌱 I’m currently learning Java and Python<br>💬 Ask me about project ideas!<br>⚡ Fun fact I once drank a sip of hand sanitizer
 
 
 ## 🌐 Socials:
